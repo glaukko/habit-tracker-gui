@@ -14,4 +14,4 @@ Simple Desktop App that provides an interface with checkboxes for the user to ch
 
 # Dependencies
 
-Uses Tkinter for GUI. This is my first project with Tkinter
+Uses <b>Tkinter</b> for GUI.
