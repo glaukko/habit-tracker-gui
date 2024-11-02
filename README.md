@@ -1,6 +1,8 @@
 ### habit-tracker-gui
 
-Simple Desktop App that provides an interface with checkboxes for the user to check the days where they completed a given, specific task, identified by its .hbt file name.
+Function based python program
+
+App that provides an interface with checkboxes for the user to check the days where they completed a given, specific task, identified by its .hbt file name.
 
 ![Main app window. Days 27-31 are disabled because they are in the future](https://i.imgur.com/kj1WarO.png)
 
